@@ -1,0 +1,5 @@
+Downloaded from https://wokwi.com/projects/365035162217200641
+
+Simulate this project on https://wokwi.com
+
+No arquivo wokwi.toml substitua "path-to-your-firmware" pelo local do firmware compilado, relativo ao arquivo wokwi.toml (que é o diretório raiz do seu espaço de trabalho).
